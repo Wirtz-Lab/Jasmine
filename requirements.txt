@@ -1,0 +1,4 @@
+openslide-python
+notebook
+matplotlib
+#conda install conda-forge::opencv
